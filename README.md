@@ -121,6 +121,7 @@ Nouveaux rôles, manies, objets fétiches ou devises : tout est dans `site/js/da
 ```js
 roles: [
   { title: "Chamane du DNS", power: "Sait que c'est toujours le DNS. Même quand ce n'est pas le DNS." },
+  { title: "Boss du repo", power: "A tous les pourvoir sur site." },
   // ajoutez le vôtre ici
 ]
 ```
